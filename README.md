@@ -41,3 +41,4 @@ You can easily customize this for your own proposal!
 
 ## 📱 Mobile Preview
 It is recommended to share the live link on WhatsApp. The view is specifically tailored to fit native mobile screen heights gracefully without clipping.
+live https://repositorypratik.free.nf/?i=1 
